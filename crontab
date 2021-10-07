@@ -1,0 +1,1 @@
+0 */2 * * * python3 /home/posta_watcher/postaWatcher/watcher.py 1>log.txt 2>error.txt
